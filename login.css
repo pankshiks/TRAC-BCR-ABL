@@ -1,0 +1,94 @@
+
+#warapper{width:1024px; height:500px; margin:0 auto; background:url(images/bg.png) }
+
+#header{ width:1024px; padding-top:110px; padding-bottom:35px; text-align:center; }
+
+#header h1{ font-size:35px; color:#491d6e  } 
+
+#login-warp {
+	position:relative;
+	background:url(images/Login_bg.png) no-repeat;	width: 345px;
+	height: 220px;
+	z-index: 1;
+	left: 35%;
+	top: 5%;
+}
+
+#user {
+	position: absolute;
+	background:url(images/username.png) no-repeat;
+	width: 87px;
+	height: 42px;
+	z-index: 10;
+	left: -3px;
+	top: 56px;
+}
+
+#password {
+	position: absolute;
+	background: url(images/password.png) no-repeat;
+	width: 87px;
+	height: 42px;
+	z-index: 102;
+	left: -3px;
+	top: 101px;
+}
+
+#input-box {
+	position: absolute;
+	background: url(images/input.png) no-repeat;
+	width: 235px;
+	height: 33px;
+	z-index: 2;
+	left: 76px;
+	top: 56px;
+}
+
+#input-box1 {
+	position: absolute;
+	background: url(images/input.png) no-repeat;
+	width: 234px;
+	height: 34px;
+	z-index: 2;
+	left: 77px;
+	top: 99px;
+}
+
+#rember{
+	position: absolute;
+	font-size: 12px;
+	width: 123px;
+	height: 18px;
+	z-index: 15;
+	left: 27px;
+	top: 153px;
+}
+#forgot{
+	position: absolute;
+	width: 105px;
+	height: 16px;
+	z-index: 15;
+	font-size: 12px;
+	left: 206px;
+	top: 156px;
+}
+#submit{
+	position: absolute;
+	width: 105px;
+	height: 16px;
+	z-index: 15;
+	font-size: 12px;
+	left: 115px;
+	top: 180px;
+}
+
+.regfild{width:246px; height:27px; color:#4b1e71 ; font-size:16px; padding-left:10px;}
+
+.shadow {
+	position:relative;
+	background:url(images/shadow.png) no-repeat;	width: 505px;
+	height: 45px;
+	z-index: 1;
+	left: 35%;
+	top: 5%;
+}

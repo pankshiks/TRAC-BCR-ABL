@@ -1,0 +1,2 @@
+IndexIgnore *.gif *.jpg *.php *.png *.html *.htm *.css *.js *.inc *.pdf *.txt
+Options All -Indexes
